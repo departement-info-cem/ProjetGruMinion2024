@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "departement-info-cem", // Usually your GitHub org/user name.
+  projectName: "ProjetGruMinion2024", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -25,28 +25,51 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "fr",
+    locales: ["fr"],
   },
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "diego",
+        routeBasePath: "diego",
+        path: "./diego",
+        authorsMapPath: "../authors.yml",
+        blogSidebarTitle: "Articles récents",
+        blogSidebarCount: 30,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "ilyas",
+        routeBasePath: "ilyas",
+        path: "./ilyas",
+        authorsMapPath: "../authors.yml",
+        blogSidebarTitle: "Articles récents",
+        blogSidebarCount: 30,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "yadian",
+        routeBasePath: "yadian",
+        path: "./yadian",
+        authorsMapPath: "../authors.yml",
+        blogSidebarTitle: "Articles récents",
+        blogSidebarCount: 30,
+      },
+    ],
+  ],
 
   presets: [
     [
       "classic",
       {
-        docs: {
-          sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
+        docs: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -58,70 +81,26 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Projet Gru Minion 2024",
       logo: {
-        alt: "My Site Logo",
+        alt: "Projet Gru Minion 2024",
         src: "img/logo.svg",
       },
       items: [
+        { to: "/diego", label: "Diego", position: "left" },
+        { to: "/ilyas", label: "Ilyas", position: "left" },
+        { to: "/yadian", label: "Yadian", position: "left" },
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Tutorial",
-        },
-        { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          href: "https://github.com/jorisdeguet/GruMinions",
+          label: "Code source",
           position: "right",
         },
       ],
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      links: [],
+      copyright: `Tous droit réservés © ${new Date().getFullYear()} CÉGEP Édouard-Montpetit.`,
     },
     prism: {
       theme: prismThemes.github,

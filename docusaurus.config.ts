@@ -39,6 +39,8 @@ const config: Config = {
         authorsMapPath: "../authors.yml",
         blogSidebarTitle: "Articles récents",
         blogSidebarCount: 30,
+        editUrl:
+          "https://github.com/departement-info-cem/ProjetGruMinion2024/tree/main",
       },
     ],
     [
@@ -50,6 +52,8 @@ const config: Config = {
         authorsMapPath: "../authors.yml",
         blogSidebarTitle: "Articles récents",
         blogSidebarCount: 30,
+        editUrl:
+          "https://github.com/departement-info-cem/ProjetGruMinion2024/tree/main",
       },
     ],
     [
@@ -61,6 +65,8 @@ const config: Config = {
         authorsMapPath: "../authors.yml",
         blogSidebarTitle: "Articles récents",
         blogSidebarCount: 30,
+        editUrl:
+          "https://github.com/departement-info-cem/ProjetGruMinion2024/tree/main",
       },
     ],
   ],

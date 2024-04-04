@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojet_gru_minion_2024=self.webpackChunkprojet_gru_minion_2024||[]).push([[9123],{4922:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ProjetGruMinion2024/blog/tags/docusaurus","allTagsPath":"/ProjetGruMinion2024/blog/tags","count":4,"unlisted":false}')}}]);

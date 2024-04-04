@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojet_gru_minion_2024=self.webpackChunkprojet_gru_minion_2024||[]).push([[6158],{2359:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ProjetGruMinion2024/blog/tags/hola","allTagsPath":"/ProjetGruMinion2024/blog/tags","count":1,"unlisted":false}')}}]);

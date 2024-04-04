@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprojet_gru_minion_2024=self.webpackChunkprojet_gru_minion_2024||[]).push([[6334],{1794:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/blog/tags/facebook","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

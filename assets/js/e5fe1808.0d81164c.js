@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprojet_gru_minion_2024=self.webpackChunkprojet_gru_minion_2024||[]).push([[8241],{1862:o=>{o.exports=JSON.parse('{"permalink":"/ProjetGruMinion2024/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

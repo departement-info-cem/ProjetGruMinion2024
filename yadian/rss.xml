@@ -29,64 +29,64 @@
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/22/semaine8</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/22/semaine8</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Cette semaine, je me suis lancé sur un mini-jeu qui s’appelle Brick Breaker afin de l’inclure dans le projet de mes collègues. Mon projet personnel est déjà terminé, mais il me reste encore 2 semaines, donc j’essaie de rester productif. Je suis également entré dans le magasin d’assets itch.io et j’ai découvert des nouveaux assets gratuits intéressants. J’ai donc commencé aussi à programmer le jeu Sprout Lands qui ressemble un peu et qui a la même logique de jeu que Stardew Valley. De plus, je tiens mon site et le site du projet à jour avec mon journal de développement.]]></description>
+            <content:encoded><![CDATA[<p>Cette semaine, je me suis lancé sur un mini-jeu qui s’appelle Brick Breaker afin de l’inclure dans le projet de mes collègues. Mon projet personnel est déjà terminé, mais il me reste encore 2 semaines, donc j’essaie de rester productif. Je suis également entré dans le magasin d’assets itch.io et j’ai découvert des nouveaux assets gratuits intéressants. J’ai donc commencé aussi à programmer le jeu Sprout Lands qui ressemble un peu et qui a la même logique de jeu que Stardew Valley. De plus, je tiens mon site et le site du projet à jour avec mon journal de développement.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 7]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/15/semaine7</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/15/semaine7</guid>
             <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Cette semaine, je voulais faire quelque chose de différent. J’ai donc mis mon bug de manette de côté et j’ai déployé la démo du jeu sur le web. J’ai aussi commencé mon webfolio, un site web pour présenter mes projets. Je suis allé lire la documentation d’Angular puisque ça faisait un bout que je n’avais pas touché ce framework. Lorsque j’avais une base, je l’ai également déployé. J’avais déjà vu quelques tiktoks de programmeur qui font du code html, css et des scripts très intéressants. J’ai reproduit le code afin de l’inclure dans mon site. J’ai également appris comment injecter un script dans un component ce qui est très utile.]]></description>
+            <content:encoded><![CDATA[<p>Cette semaine, je voulais faire quelque chose de différent. J’ai donc mis mon bug de manette de côté et j’ai déployé la démo du jeu sur le web. J’ai aussi commencé mon webfolio, un site web pour présenter mes projets. Je suis allé lire la documentation d’Angular puisque ça faisait un bout que je n’avais pas touché ce framework. Lorsque j’avais une base, je l’ai également déployé. J’avais déjà vu quelques tiktoks de programmeur qui font du code html, css et des scripts très intéressants. J’ai reproduit le code afin de l’inclure dans mon site. J’ai également appris comment injecter un script dans un component ce qui est très utile.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 6]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/08/semaine6</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/08/semaine6</guid>
             <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[J’ai fini d’implanter le mode multijoueur dans la démo et je l’ai intégré dans le projet initial. J’ai configuré la manette pour le joueur numéro 2. J’ai joué un peu afin de tester si tout fonctionnait comme il faut. Il y avait quelque bugs lors du revive, lors de l’affichage des overlays. J’ai corrigé ces erreurs et j’ai continuer à tester. En jouant avec deux manettes à même temps, j’ai trouvé un autre bug, une fois que j’appuie sur un bouton sur la manette mon personnage n’arrête pas de bouger même si le bouton n’est plus appuyé. J’ai fini la semaine sans trouver un fix.]]></description>
+            <content:encoded><![CDATA[<p>J’ai fini d’implanter le mode multijoueur dans la démo et je l’ai intégré dans le projet initial. J’ai configuré la manette pour le joueur numéro 2. J’ai joué un peu afin de tester si tout fonctionnait comme il faut. Il y avait quelque bugs lors du revive, lors de l’affichage des overlays. J’ai corrigé ces erreurs et j’ai continuer à tester. En jouant avec deux manettes à même temps, j’ai trouvé un autre bug, une fois que j’appuie sur un bouton sur la manette mon personnage n’arrête pas de bouger même si le bouton n’est plus appuyé. J’ai fini la semaine sans trouver un fix.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 5]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/01/semaine5</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/04/01/semaine5</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Cette semaine, il fallait que je stock quelque part le nom du personnage choisis par joueur numéro 1 et par joueur numéro 2. Il fallait aussi stocker le niveau sélectionné. J’ai essayé plusieurs méthodes, mais j’ai fini par les stocker dans une classe config tout en envoyant des messages entre les machines afin que les valeurs soient à jour des deux côtés puisque la classe config locale. J’ai également décidé d’implanter le mode multijoueur dans la démo, car ça allait faciliter les tests et les modifications.]]></description>
+            <content:encoded><![CDATA[<p>Cette semaine, il fallait que je stock quelque part le nom du personnage choisis par joueur numéro 1 et par joueur numéro 2. Il fallait aussi stocker le niveau sélectionné. J’ai essayé plusieurs méthodes, mais j’ai fini par les stocker dans une classe config tout en envoyant des messages entre les machines afin que les valeurs soient à jour des deux côtés puisque la classe config locale. J’ai également décidé d’implanter le mode multijoueur dans la démo, car ça allait faciliter les tests et les modifications.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 4]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/25/semaine4</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/25/semaine4</guid>
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Cette semaine pour atteindre mon prochain objectif, il fallait que je trouve une façon de définir quelle sera la manette 1 et qui sera la manette 2. J’ai essayé plusieurs méthodes, mais sans succès. Cependant, j’ai appris quelques trucs qui m’ont aidé par la suite. J’ai appris que toutes les variables sont locales et elles ne sont pas partagées entre les machines. À cause du temps que j’avais perdu et en regardant ce qu’il me restait à faire, j’ai fini par simplement afficher un dialogue après que les tablettes soient connectées afin de choisir qui est le joueur numéro 1 ou 2.]]></description>
+            <content:encoded><![CDATA[<p>Cette semaine pour atteindre mon prochain objectif, il fallait que je trouve une façon de définir quelle sera la manette 1 et qui sera la manette 2. J’ai essayé plusieurs méthodes, mais sans succès. Cependant, j’ai appris quelques trucs qui m’ont aidé par la suite. J’ai appris que toutes les variables sont locales et elles ne sont pas partagées entre les machines. À cause du temps que j’avais perdu et en regardant ce qu’il me restait à faire, j’ai fini par simplement afficher un dialogue après que les tablettes soient connectées afin de choisir qui est le joueur numéro 1 ou 2.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 3]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/18/semaine3</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/18/semaine3</guid>
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Tout se passe bien. Cette semaine, j’ai intégré la démo sur le projet initial. Je suis plus concentré le UI, car il faudrait être capable de choisir un personnage et un niveau avant de commencer à jouer. Je veux avoir aussi quelque chose de présentable. Arrivé à la fin de semaine, j’ai fait une petite présentation du projet. La manette possède quelques défauts, il y a un certain délai pour que le personnage suive les commandes envoyées depuis la manette. À part cela, l’interface est très réussie et le jeu aussi. Prochaine étape, ajouter le mode multijoueur.]]></description>
+            <content:encoded><![CDATA[<p>Tout se passe bien. Cette semaine, j’ai intégré la démo sur le projet initial. Je suis plus concentré le UI, car il faudrait être capable de choisir un personnage et un niveau avant de commencer à jouer. Je veux avoir aussi quelque chose de présentable. Arrivé à la fin de semaine, j’ai fait une petite présentation du projet. La manette possède quelques défauts, il y a un certain délai pour que le personnage suive les commandes envoyées depuis la manette. À part cela, l’interface est très réussie et le jeu aussi. Prochaine étape, ajouter le mode multijoueur.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 2]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/11/semaine2</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/11/semaine2</guid>
             <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[J’ai fini de voir les tutoriels de Spellthorn et j’ai un plan de match plus clair pour le projet. Pendant cette semaine, j’ai essayé de commencer à reproduire du code par moi-même. J’ai fait beaucoup de recherche et j’ai exploré la documentions de flame. Les prochaines étapes étaient de configurer la caméra pour qu’elle suive le joueur, ajouter les bounds (limites de la carte), et ajouter des fonctionnalités au joueur telles que le double jump et le wall jump. J’ai aussi décidé de créer un projet appelé GameWithY qui allait être la démo du jeu, car en debuggant sur les tablettes, je perdais trop de temps.]]></description>
+            <content:encoded><![CDATA[<p>J’ai fini de voir les tutoriels de Spellthorn et j’ai un plan de match plus clair pour le projet. Pendant cette semaine, j’ai essayé de commencer à reproduire du code par moi-même. J’ai fait beaucoup de recherche et j’ai exploré la documentions de flame. Les prochaines étapes étaient de configurer la caméra pour qu’elle suive le joueur, ajouter les bounds (limites de la carte), et ajouter des fonctionnalités au joueur telles que le double jump et le wall jump. J’ai aussi décidé de créer un projet appelé GameWithY qui allait être la démo du jeu, car en debuggant sur les tablettes, je perdais trop de temps.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Semaine 1]]></title>
             <link>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/04/semaine1</link>
             <guid>https://info.cegepmontpetit.ca/ProjetGruMinion2024/yadian/2024/03/04/semaine1</guid>
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[À venir]]></description>
-            <content:encoded><![CDATA[<p>À venir</p>]]></content:encoded>
+            <description><![CDATA[Lors de la première semaine, Joris et Pierre-Olivier nous ont présenté le projet. Le but de ce projet est de faire un jeux flutter avec plusieurs modes de jeux ou niveaux. Ce jeu prendra au moins deux tablettes, une sera l’écran et l’autre une manette, donc style console Wii. Il aura la possibilité d’avoir une mode multijoueur aussi. Donc pour commencer cette première semaine de travail, j’ai regardé des vidéos sur le canal YouTube de Spellthorn afin de comprendre comment flame fonctionne avec flutter. Tout en regardant, j’ai reproduit le code. Selon moi, le reproduire était plus stimulant pour mon apprentissage que prendre le repo existant.]]></description>
+            <content:encoded><![CDATA[<p>Lors de la première semaine, Joris et Pierre-Olivier nous ont présenté le projet. Le but de ce projet est de faire un jeux flutter avec plusieurs modes de jeux ou niveaux. Ce jeu prendra au moins deux tablettes, une sera l’écran et l’autre une manette, donc style console Wii. Il aura la possibilité d’avoir une mode multijoueur aussi. Donc pour commencer cette première semaine de travail, j’ai regardé des vidéos sur le canal YouTube de Spellthorn afin de comprendre comment flame fonctionne avec flutter. Tout en regardant, j’ai reproduit le code. Selon moi, le reproduire était plus stimulant pour mon apprentissage que prendre le repo existant.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

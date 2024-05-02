@@ -2,30 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas</id>
     <title>Projet Gru Minion 2024 Blog</title>
-    <updated>2024-05-06T00:00:00.000Z</updated>
+    <updated>2024-04-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas"/>
     <subtitle>Projet Gru Minion 2024 Blog</subtitle>
     <icon>https://info.cegepmontpetit.ca/ProjetGruMinion2024/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Semaine 10]]></title>
-        <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/05/06/semaine10</id>
-        <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/05/06/semaine10"/>
-        <updated>2024-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
-        <author>
-            <name>Ilyas El Haddadi</name>
-            <uri>https://github.com/2115470</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Semaine 9]]></title>
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/29/semaine9</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/29/semaine9"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Cette semaine, le but était principalement d’organiser les outils et de refactor le code pour faciliter le travail des futurs étudiants qui vont travailler sur le projet. Nous avons donc étiqueté les tablettes par leur système d’exploitation et trié les câbles et tablettes défectueuses. J’ai ensuite terminé par mettre en place les informations nécessaires à l’installation de LineageOs.]]></summary>
+        <content type="html"><![CDATA[<p>Cette semaine, le but était principalement d’organiser les outils et de refactor le code pour faciliter le travail des futurs étudiants qui vont travailler sur le projet. Nous avons donc étiqueté les tablettes par leur système d’exploitation et trié les câbles et tablettes défectueuses. J’ai ensuite terminé par mettre en place les informations nécessaires à l’installation de LineageOs.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -36,8 +24,13 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/22/semaine8</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/22/semaine8"/>
         <updated>2024-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Terminer les objets</li>
+<li>Intégration Web</li>
+</ul>
+<p>Cette semaine, j’ai corrigé certains petits bogues, ajouté des Sfx que j’ai faits avec une Synth et déployé le jeu standalone sur Github page. Moi et mes collègues avons ensuite combiné nos jeux dans l’application de tablettes. J’ai ensuite mis en place mon texte pour le journal et finalement tout publier.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -48,8 +41,12 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/15/semaine7</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/15/semaine7"/>
         <updated>2024-04-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Ajouté des items au jeu</li>
+</ul>
+<p>Cette semaine, j’ai enfin eu la chance de commencer à ajouter des éléments à mon jeu, étant donné que le problème de performance est maintenant résolu. J’ai donc commencé par organiser la structure pour implémenter des objets dans mon jeu. Le but était d’avoir une structure permettant facilement l’implémentation de la logique des animations et des sprites des objets. J’ai utilisé un Map pour storer mes objets et leur sprite associé étant donné la simplicité et la flexibilité que ça m’offrait. J’étais inspiré pas le système d’objet de Mario Kart et j’ai donc fait une logique de gameplay similaire. J’ai ajouté un bouclier qui protège le joueur des obstacles, une boisson énergisante qui donne une accélération au joueur et des boules de feux qui permettent de détruire les obstacles.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -60,8 +57,13 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/08/semaine6</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/08/semaine6"/>
         <updated>2024-04-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Release et Obfuscation</li>
+<li>Recherche sur optimisation de jeu</li>
+</ul>
+<p>Le problème de performance n’était toujours pas réglé, j’ai donc continué de chercher une solution pour rendre le jeu standalone le plus fluide possible. J’ai fait des recherches sur l’optimisation de Game Loop et regarder la structure fait par d’autres développeur tout en essayant d’appliquer certaines choses à mon jeu, mais, rien ne semblait corriger le problème. Je me suis souvenu que déployer le projet en Release enlève certaines vérifications faites par le compilateur afin de rendre le projet plus rapide. J’ai donc commencé par lancer la version standalone de mon jeu en Release et j’ai immédiatement vu une hausse drastique en performance. Le jeu standalone déployé sur tablettes était maintenant à 60 Fps de façon constante. J’ai donc essayé d’également lancer l’application des tablettes en Release mais, elle ne pouvait pas démarrer étant donné que la Library P2P que on utilisait passait des infos en json non sérialiser. En raison de l’obfuscation faite quand l’application est lancée en Release les json qui sont des strings hard codés ne fonctionnait plus j’ai donc décider d’enlever l’obfuscation pour ne pas avoir à sérialiser tout le json de la librairie et parce que notre projet est un projet open source il n’y avait donc pas de raison de garde l’obfuscation. Après ces modifications le projet Gru pouvait maintenant rouler à 60 FPS de façon constante.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -72,8 +74,13 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/01/semaine5</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/04/01/semaine5"/>
         <updated>2024-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Ajout de UDP</li>
+<li>Recherche sur optimisation de jeu</li>
+</ul>
+<p>Après avoir théorisé sur une solution à la latence de la manette. J’ai conclu qu’il serait possible de réduire la latence en intégrant un protocole UDP. Étant donné que la communication entre les tablettes est faite en TCP je me suis dit qu’essayer d’Integer la capacité d’avoir une manette qui envoie un signal en UDP pourrait potentiellement rendre la communication plus rapide, en raison du handshake en moins. Je n’avais jamais avant codé de protocole réseau donc c’était une expérience très intéressante. Les éléments qui mon pris le plus de temps était des petits bogues dont je n’étais pas au courant comme le fait qu’il n’est pas possible sur Dart de faire en sorte que plusieurs appareillent écoute le même Stream, car sinon une erreur est causée j’ai donc dû utiliser un Stream Controller qui lui à la capacité d’être écouté par plusieurs appareilles réparent le problème du Broadcast. Malgré avoir réussi à implémenter un protocole UDP, le problème de latence ne c’est que légèrement amélioré et ce au détriment de la fiabilité de l’input de la manette. J’ai donc pour cette raison décidé de continuer d’utiliser TCP sur mes manettes.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -84,8 +91,13 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/25/semaine4</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/25/semaine4"/>
         <updated>2024-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Nouvel Os (LineageOs)</li>
+<li>Implémentation du jeu dans le projet</li>
+</ul>
+<p>Cette semaine, je voulais ajouter d’autres éléments à mon jeu, mais j’étais insatisfait de la performance qui était très instable. Les FPS sur les tablettes étaient dans les alentours de 20-40 FPS. Je me suis également dit qu’il ne valait pas la peine d’ajouter d’autres éléments au jeu si ceux-ci ont une grande chance de réduire la performance d’avantage. Étant donné que j’avais déjà optimisé le code, la seule chose qu’il me restait était d’optimiser la tablette. J’ai donc cherché un peut et trouver LineageOs, un système d’exploitation open source basé sur Android. Après quelques tests, il était évident que la performance s’était considérablement améliorée. Le jeu standalone était maintenant dans les alentours de 50-60 FPS et l'application Gru est passée de 5 à environ 1 minute. Il était maintenant beaucoup plus simple de tester sur les tablettes. J’ai ensuite intégré le jeu dans l'application Gru. Le jeu semblait être dans les alentours des 40-50 FPS ce qui n’est toujours pas idéal pour ajouter de nouveaux éléments, mais, toujours une amélioration.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -96,8 +108,13 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/18/semaine3</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/18/semaine3"/>
         <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Terminer le tutoriel</li>
+<li>Ajouter des éléments</li>
+</ul>
+<p>Cette semaine, j’ai continué de suivre le tutoriel tout en prenant des notes sur certains concepts.Le tutoriel que j’ai suivi est sur un vertical scroller de ski. Tous l’aspect d’utilisation de caméra, de collision, de sprite sheet et d’entité ont très bien été expliqué. Après avoir complété le tutoriel, j’ai décidé d’ajouter d’autres éléments et d’en modifier d’autres. J’ai ajouté un compte à rebours, une avalanche et changé un peu certains éléments du gameplay pour rendre le jeu un peu plus intéressant. J’ai principalement développé mon application en une application flutter Windows, mais, j’ai également essayé de lancer le jeu sur une tablette pour confirmer qu’il n’y a pas trop un grand problème de performance. Après avoir réalisé que la tablette avait beaucoup de difficulté avec les particules, je suis arrivé à la conclusion que j’allais être obligé de les supprimer.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -108,8 +125,14 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/11/semaine2</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/11/semaine2"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Voir les limites de flames</li>
+<li>Tester les limites de nos tablettes</li>
+<li>Apprentissage et création de jeux</li>
+</ul>
+<p>Avant de me lancer dans le développement d’un jeu, j’ai voulu tester certains projets faits par d’autres développeurs afin de voir ce qui est réalisable sur flame et ce qui est réalisable sur nos tablettes. Les tablettes à notre disposition sont des Nexus 7 de 2013 qui roulent sur Android 6. L’élément le plus pénible de ces tablettes est l’inconsistance du déploiement. L’application Gru doit être lancée sur 3 tablettes. Cependant, il arrive très fréquemment qu’une ou plusieurs tablettes ne lancent pas le projet ce qui peut étendre le démarrage du projet a plus de 5 minutes. Après avoir testé plusieurs projets, j’ai découvert que flame audio ne semble pas fonctionner sur Android 6. J’ai donc dû supprimer tout ce qui était en lien avec le son dans les projets de tests. Malheureusement, l’autre fréquent problème était la performance ce qui a grandement réduit les choix de jeux qu’il était possible de développer. J’ai ensuite décidé de suivre un tutoriel sur la création d’un jeu pour avoir une meilleure idée des standards de structures de projet de jeux et afin de plus facilement produire quelque chose d’extensible. Pour ne pas perdre trop de temps, j’ai créé un projet de côté où il était plus facile de déboguer et de lancer l’application.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>
@@ -120,8 +143,14 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/04/semaine1</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/ilyas/2024/03/04/semaine1"/>
         <updated>2024-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Objectifs :]]></summary>
+        <content type="html"><![CDATA[<h3>Objectifs :</h3>
+<ul>
+<li>Me familiariser avec le projet</li>
+<li>Segmenter les tablettes en rôles(Console, Écrans et Manettes)</li>
+<li>Faire fonctionner 2 manettes dans un Game Loop (tester le multijoueur)</li>
+</ul>
+<p>Première semaine très intéressante, j’ai vue pour la première fois du code qui était ancré sur de la programmation de jeux et de communication réseautique plus précisément sur du Peer-to-peer et sur l’ouverture des sockets TCP. J’ai passé un bon moment à lire le code afin de m’assurer de bien le comprendre. Je me suis ensuite lancé sur l’intégration d’une architecture similaire à une console plus précisément, j’ai complété la configuration pour que 3 tablettes puissent initier une communication et s’attribuer des rôles (Console, Écrans et manettes). La console étant celle qui initie la connexion entre les tablettes, l’écran contenant la Game Loop et la manette qui envoie les instructions de mouvement à la Game Loop. Tous les objectifs ont été atteints plutôt rapidement à mon étonnement. Cependant, j’ai vite été déçu par la latence visible des manettes. C’est pour cette raison que j’ai décidé de commencer par me concentrer sur le développement et l’optimisation d’un jeu solo avant d’essayer d’implémenter un multijoueur.</p>]]></content>
         <author>
             <name>Ilyas El Haddadi</name>
             <uri>https://github.com/2115470</uri>

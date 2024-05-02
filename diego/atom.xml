@@ -2,30 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego</id>
     <title>Projet Gru Minion 2024 Blog</title>
-    <updated>2024-05-06T00:00:00.000Z</updated>
+    <updated>2024-04-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego"/>
     <subtitle>Projet Gru Minion 2024 Blog</subtitle>
     <icon>https://info.cegepmontpetit.ca/ProjetGruMinion2024/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Semaine 10]]></title>
-        <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/05/06/semaine10</id>
-        <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/05/06/semaine10"/>
-        <updated>2024-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
-        <author>
-            <name>Diego Garcia Rioja</name>
-            <uri>https://github.com/1932943</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Semaine 9]]></title>
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/29/semaine9</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/29/semaine9"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[J’ai écrit mon rapport de Stage et j’ai documenter ce que j’ai fais au cours du stage dans le docusaurus du stage.]]></summary>
+        <content type="html"><![CDATA[<p>J’ai écrit mon rapport de Stage et j’ai documenter ce que j’ai fais au cours du stage dans le docusaurus du stage.</p>
+<p>J’ai aussi étiqueté toutes les tablettes et câbles pour que les stagiaires futurs n’est pas à tous les tester.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -36,8 +25,9 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/22/semaine8</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/22/semaine8"/>
         <updated>2024-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Le texte dans le menu principale changé d’un texte régulier mais plus gros à même chose avec un contour blanc.]]></summary>
+        <content type="html"><![CDATA[<p>Le texte dans le menu principale changé d’un texte régulier mais plus gros à même chose avec un contour blanc.</p>
+<p>Il y a maintenant une musique de fond sur BugCatcher. Flame Audio a été utilisé pour la musique. C’est quand même très simple à mettre en place. Cependant, la version Android des tablettes ne fonctionne pas avec l’audio. Donc grâce à un nouvel OS on a pu ajouter des musiques au jeux.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -48,8 +38,9 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/15/semaine7</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/15/semaine7"/>
         <updated>2024-04-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Ilyas et Moi on à décider de merge nos jeux dans la même branche. Tout s’est bien passé, quelques conflits mineurs. Il y a un menu principal pour le jeu au complet avec des boutons qui montrent les détails des mini-jeux.]]></summary>
+        <content type="html"><![CDATA[<p>Ilyas et Moi on à décider de merge nos jeux dans la même branche. Tout s’est bien passé, quelques conflits mineurs. Il y a un menu principal pour le jeu au complet avec des boutons qui montrent les détails des mini-jeux.</p>
+<p>Des images ont été ajouter pour sélection quel jeu jouer et Ski Master possède le même contrôleur que les autres jeux.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -60,8 +51,9 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/08/semaine6</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/08/semaine6"/>
         <updated>2024-04-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Cette semaine j’ai abandonné le restart aléatoire sur BugCatcher, ce que j’ai fais est une carte avec un nombre fixe d’insectes, mais les types des insectes et le type rechercher sont aléatoire.]]></summary>
+        <content type="html"><![CDATA[<p>Cette semaine j’ai abandonné le restart aléatoire sur BugCatcher, ce que j’ai fais est une carte avec un nombre fixe d’insectes, mais les types des insectes et le type rechercher sont aléatoire.</p>
+<p>J’ai aussi changé le visuel sur les pages de sélection des contrôleurs. La taille de la carte de BoxSmasher a changé.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -72,8 +64,9 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/01/semaine5</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/04/01/semaine5"/>
         <updated>2024-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[J’ai fait une deuxième carte pour BugCatcher et le restart avec une carte aléatoire fonctionne partiellement, c’est-à-dire qu’il recharge toujours la même carte. Le Game Over avait du code en désordre, donc je l’ai ordonné pour que ça soit plus simple à lire. Certaines fonctionnalité au niveau du Game Over ont été modifiées, par exemple le Game Over ne change plus la page sur laquelle la tablette se trouve, en gros il ne fait plus de Navigator push. Maintenant il est possible de changer de jeu après une partie de BugCatcher. Il y a un menu principal pour BugCatcher.]]></summary>
+        <content type="html"><![CDATA[<p>J’ai fait une deuxième carte pour BugCatcher et le restart avec une carte aléatoire fonctionne partiellement, c’est-à-dire qu’il recharge toujours la même carte. Le Game Over avait du code en désordre, donc je l’ai ordonné pour que ça soit plus simple à lire. Certaines fonctionnalité au niveau du Game Over ont été modifiées, par exemple le Game Over ne change plus la page sur laquelle la tablette se trouve, en gros il ne fait plus de Navigator push. Maintenant il est possible de changer de jeu après une partie de BugCatcher. Il y a un menu principal pour BugCatcher.</p>
+<p>BoxSmasher à reçu un menu principale similaire a celui de BugCatcher, un écran de victoire pour le vainqueur et un de défaite pour le perdant. L’animation de la boite qui bouge avait un problème d’hauteur. Il est possible de rejouer BoxSmasher sans relancer l’application.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -84,8 +77,11 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/25/semaine4</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/25/semaine4"/>
         <updated>2024-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[La première carte de MasterfulDiviner est terminée et les insectes sont la couche la plus visible. La fonctionnalité principale des insectes dans le jeu est qu’ils ont un mouvement aléatoire entre haut, bas, droite, gauche. Qui changent s’ils arrivent un peu trop loin de leur point de départ. J’ai aussi ajouté une entité invisible et avec aucune collisions sur qui la caméra est centré, avec cela je peux désormais bouger la caméra. Le jeu contient une Game Over qui est automatique après 15 secondes pour vérifier si vous avez bien compter les insectes demandés. Les boutons A et B servent à augmenter le compteur et à le diminuer. Il y a aussi des instructions pour MasterfulDiviner quand on commence la partie.]]></summary>
+        <content type="html"><![CDATA[<p>La première carte de MasterfulDiviner est terminée et les insectes sont la couche la plus visible. La fonctionnalité principale des insectes dans le jeu est qu’ils ont un mouvement aléatoire entre haut, bas, droite, gauche. Qui changent s’ils arrivent un peu trop loin de leur point de départ. J’ai aussi ajouté une entité invisible et avec aucune collisions sur qui la caméra est centré, avec cela je peux désormais bouger la caméra. Le jeu contient une Game Over qui est automatique après 15 secondes pour vérifier si vous avez bien compter les insectes demandés. Les boutons A et B servent à augmenter le compteur et à le diminuer. Il y a aussi des instructions pour MasterfulDiviner quand on commence la partie.</p>
+<p>Je veux faire que la sélection de la carte avec les insectes soit aléatoire, mais je n’arrive pas à le coder sans que le jeu plante. Je vais essayer de trouver une autre façon la semaine prochaine, car ça fait 3 jours que je suis sur cela.</p>
+<p>J’ai changé le nom de MasterfulDiviner vers BugCatcher suite au conflits de compréhension du lien entre le nom du jeu et le gameplay.</p>
+<p>BoxSmasher à maintenant le même visuel de contrôleur que BugCatcher. J’avais amélioré le contrôleur de BugCatcher, donc j’ai décider de faire de même pour BoxSmasher.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -96,8 +92,10 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/18/semaine3</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/18/semaine3"/>
         <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Petit problème au niveau pubspec.yaml durant cette semaine. Le problème est qu’il faut ajouter précisément toutes les Paths des assets. Après avoir fini le développement de BoxSmasher, j’ai commencé à programmer mon deuxième jeu, MasterfulDiviner, un jeu dont le but est de compter les insectes d’un certain type. Pendant, la création de la carte du jeu, j’ai remarqué que les assets des meubles ont été corrompus, les meubles servaient à cacher les insectes pour augmenter la difficulté du jeu. Après un peu de réflexion, j’ai décider d’enlever les meubles qui peuvent cachés les insectes pour rendre le jeu plus accessible.]]></summary>
+        <content type="html"><![CDATA[<p>Petit problème au niveau pubspec.yaml durant cette semaine. Le problème est qu’il faut ajouter précisément toutes les Paths des assets. Après avoir fini le développement de BoxSmasher, j’ai commencé à programmer mon deuxième jeu, MasterfulDiviner, un jeu dont le but est de compter les insectes d’un certain type. Pendant, la création de la carte du jeu, j’ai remarqué que les assets des meubles ont été corrompus, les meubles servaient à cacher les insectes pour augmenter la difficulté du jeu. Après un peu de réflexion, j’ai décider d’enlever les meubles qui peuvent cachés les insectes pour rendre le jeu plus accessible.</p>
+<p>On c’est aperçu que les contrôleurs fonctionnent entre les jeux dans la version tablette. C’est surement dû au fait que les inputs des contrôleurs sont toujours les mêmes qui sont utiliser. Le Joypad envoie un message avec une direction à la console peu importe le jeu et la console fait le code dans le jeu ouvert a ce moment-là, cela fait que les contrôleurs sont compatibles avec tous les jeux.</p>
+<p>Ensuite, pour aider les personne à utiliser le contrôleur, j’ai rendu les boutons plus gros. Cela fait qu’ils sont plus faciles à appuyer.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -108,8 +106,10 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/11/semaine2</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/11/semaine2"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Les mécaniques de gameplay de BoxSmasher sont finies. J’ai remarqué des grosses difficultés à ajouter un background pour le jeu, car la position et la taille du background ne vont pas exactement bien avec le visuel désiré. Cependant, j’ai fini par trouver les bonne proportions à donner au background.]]></summary>
+        <content type="html"><![CDATA[<p>Les mécaniques de gameplay de BoxSmasher sont finies. J’ai remarqué des grosses difficultés à ajouter un background pour le jeu, car la position et la taille du background ne vont pas exactement bien avec le visuel désiré. Cependant, j’ai fini par trouver les bonne proportions à donner au background.</p>
+<p>J’ai changé comment les boîtes serraient positionnées pour voir si les collisions ne brisent pas encore les tablettes. Résultat : Aucun Changement les collisions sont trop lourdes. Donc, j’ai décider d’abandonner l’idée d’une tour de boites et mettre une pile de boites qui ne bouge pas à la place avec une boite qui bouge cachée derrière la pile.</p>
+<p>L’animation pour mettre la boite dans la maison est une animation Flame qui bouge la boite dans l’axe X vers la droite.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
@@ -120,8 +120,10 @@
         <id>https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/04/semaine1</id>
         <link href="https://info.cegepmontpetit.ca/ProjetGruMinion2024/diego/2024/03/04/semaine1"/>
         <updated>2024-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[À venir]]></summary>
-        <content type="html"><![CDATA[<p>À venir</p>]]></content>
+        <summary type="html"><![CDATA[Pendant les premiers jours, j'ai été demandé par Joris et Pierre-Olivier de lire et comprendre le code qui utilise le Wi-Fi direct des tablettes. Après avoir compris les bases du code p2p (Peer-to-peer). Je me suis lancé sur lire la documentation de Flame pour Flutter. Après avoir lue les documentations et exemples j'ai commencé le développement de mon tout premier jeu BoxSmasher. Le but du jeu est d’appuyer le bouton A le plus vite possible à répétition pour avoir le score de 100 avant l'autre joueur.]]></summary>
+        <content type="html"><![CDATA[<p>Pendant les premiers jours, j'ai été demandé par Joris et Pierre-Olivier de lire et comprendre le code qui utilise le Wi-Fi direct des tablettes. Après avoir compris les bases du code p2p (Peer-to-peer). Je me suis lancé sur lire la documentation de Flame pour Flutter. Après avoir lue les documentations et exemples j'ai commencé le développement de mon tout premier jeu BoxSmasher. Le but du jeu est d’appuyer le bouton A le plus vite possible à répétition pour avoir le score de 100 avant l'autre joueur.</p>
+<p>Donc, j'ai commencé par faire le monde du jeu sur Tiled un logiciel qui permet de faire le monde du jeu en 2d avec la fonctionnalité de faire le monde en couche, donc si je place un objet dans la couche 2 visuellement il sera par-dessus un objet dans la couche 1 à la même position. Après avoir fini de faire le monde, j'ai utilisé le package flame_tiled de Flame pour utiliser les cartes faite grâce à Tiled. Ensuite, j'ai ajouté le personnages des joueurs. Il y a beaucoup de fonctionnalités et des boutons sur Tiled que je ne sais pas quoi faire avec.  Cela c'est prouver être relativement difficile, car il fallait que je trouve la position exacte en termes de Vecteur X et Y pour placer le personnage. De plus, j'ai ajouté une caméra au jeu qui est centré sur le personnage. Là il manquait juste à ajouter les boites que les jeux vont devoir pousser dans la maison. J'ai commencé par essayer une tour de boites avec des collisions entre-elles. Cependant, vu que les boîtes sont toujours en train d’effectuer le code, ce qui fait que les tablettes commencent à ralentir.</p>
+<p>Un truc important sur Tiled que j'ai appris est que changé les documents cause beaucoup de problèmes.</p>]]></content>
         <author>
             <name>Diego Garcia Rioja</name>
             <uri>https://github.com/1932943</uri>
